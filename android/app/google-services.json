@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "583421447581",
+    "project_id": "pray4u-antsystems",
+    "storage_bucket": "pray4u-antsystems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583421447581:android:d39cf98fad4b807da67374",
+        "android_client_info": {
+          "package_name": "app.pray4u.pray4u"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583421447581-h2b731s1n3j1mojip0b42jsmrrg6krd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYt57kTGiw3O8vPxrHcKllUsoFefkRZhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583421447581-h2b731s1n3j1mojip0b42jsmrrg6krd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583421447581:android:ba272a36b1a12ed5a67374",
+        "android_client_info": {
+          "package_name": "com.example.push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583421447581-h2b731s1n3j1mojip0b42jsmrrg6krd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYt57kTGiw3O8vPxrHcKllUsoFefkRZhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583421447581-h2b731s1n3j1mojip0b42jsmrrg6krd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
